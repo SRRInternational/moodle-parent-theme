@@ -9,3 +9,4 @@ Follow these steps to integrate the OneUI theme into your Moodle setup:
    ```
    git clone https://github.com/SRRInternational/moodle-parent-theme.git oneui
    ```
+2. Refresh the moodle page and follow steps for installation
