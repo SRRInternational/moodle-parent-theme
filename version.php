@@ -1,5 +1,5 @@
 <?php
 defined('MOODLE_INTERNAL') || die();
-$plugin->version = '2016102100';
-$plugin->requires = '2016070700';
+$plugin->version   = 2023032000;
+$plugin->requires  = 2022041200;
 $plugin->component = 'theme_oneui';
