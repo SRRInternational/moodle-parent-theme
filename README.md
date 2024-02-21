@@ -30,4 +30,11 @@ Follow these steps to integrate the OneUI theme into your Iomad setup:
 
 ### Example `theme_oneui.php`:
 
+**Output on Moodle site**
 
+ *got redireacted to upgrade page to perform upgrade*
+  - This are the Screenshots of Upgrade
+
+![output1.php](screenshots/output1.png)
+![output2.php](screenshots/output2.png)
+![output3.php](screenshots/output3.png)
